@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Start",
+    "\\Content",
+    "\\Content\\img",
+    "\\fonts",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\edmxResourcesToEmbed",
+    "\\Views",
+    "\\Views\\Users"
+  ],
+  "SelectedNode": "\\obj\\Debug\\GenshinCourse.csproj.CopyComplete",
+  "PreviewInSolutionExplorer": false
+}
